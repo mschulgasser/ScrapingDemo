@@ -1,0 +1,7 @@
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\bin\Debug\Scraping.Data.dll
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\bin\Debug\Scraping.Data.pdb
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\bin\Debug\AngleSharp.dll
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\bin\Debug\AngleSharp.xml
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\obj\Debug\Scraping.Data.csprojResolveAssemblyReference.cache
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\obj\Debug\Scraping.Data.dll
+c:\Users\Malka\documents\visual studio 2015\Projects\Scraping\Scraping.Data\obj\Debug\Scraping.Data.pdb

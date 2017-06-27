@@ -1,0 +1,24 @@
+﻿@using Scraping.Data
+@using Scraping.Models
+@model IndexViewModel
+
+<table class="table table-hover table-bordered table-striped">
+    <tr>
+        <th>Title</th>
+        <th>Content</th>
+        <th>Image</th>
+    </tr>
+    @foreach (Article a in Model.Articles)
+    {
+        <tr>
+            <td><a href="@a.Url">@a.Title</a></td>
+            <td>@a.Content</td>
+            <td>
+                @if (a.ImageUrl != null)
+                {
+                    <img src="@a.ImageUrl" />
+                }
+            </td>
+        </tr>
+    }
+</table>
